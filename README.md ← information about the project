@@ -1,0 +1,18 @@
+# ZICCO v1 Prototype
+
+This is a front-end prototype for the ZICCO transaction-request app.
+
+Included:
+- Home/service selection
+- Order request form
+- Local order history
+- Rates screen
+- Support screen
+- Profile screen
+- Mobile-friendly dark/gold UI
+- PWA manifest
+
+Important:
+This prototype does NOT process, custody, exchange, or transfer real money, crypto, gift cards, or payment-provider balances. Before production, add secure authentication, a real backend/database, provider APIs, compliance/KYC/AML where applicable, audit logs, privacy/terms pages, and business/payment-provider approvals.
+
+Open index.html in a browser to preview it. It can also be hosted as a web app/PWA.
